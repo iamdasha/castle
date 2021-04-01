@@ -1,0 +1,597 @@
+@media only screen and (min-width: 1680px) {
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+  .castlewrap4 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    display: none;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  #fl17, #fl18, #fl19, #fl20, #fl21, #fl22 {
+    display: none;
+  }
+
+  .sside1, .sside2 {
+    display: none;
+  }
+
+  .content .logo {
+    width: 11%;
+    top: 18.5%;
+  }
+
+  .content .footer > p {
+    top: 33.5%;
+  }
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1679px){
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+  .castlewrap4 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    display: none;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  #fl17, #fl18, #fl19, #fl20, #fl21, #fl22 {
+    display: none;
+  }
+
+  .sside1, .sside2 {
+    display: none;
+  }
+
+  .content .logo {
+    width: 11%;
+    top: 18.5%;
+  }
+
+  .content .footer > p {
+    top: 33.5%;
+  }
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1439px){
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+  .castlewrap4 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    display: none;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  #fl17, #fl18, #fl19, #fl20, #fl21, #fl22 {
+    display: none;
+  }
+
+  .sside1, .sside2 {
+    display: none;
+  }
+
+  .content .logo {
+    width: 12%;
+    top: 18.5%;
+  }
+
+  .content .footer > p {
+    top: 33.5%;
+  }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1365px) {
+
+  body .ratio {
+    padding-bottom: 327.3%;
+  }
+
+  .castlewrap {
+    display: none;
+  }
+
+  .castlewrap2 {
+    position: relative;
+    height: 22%;
+    width: 95.6%;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+  .castlewrap4 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    display: none;
+  }
+
+  .castle {
+    position: absolute;
+    left: .7%;
+    top: -3%;
+    width: 103.1%;
+    height: 99.4%;
+  }
+
+  .castlewrap2 {
+    position: relative;
+    height: 25%;
+    width: 95.6%;
+    top: -3.5%;
+  }
+
+  .fence {
+    top: -6.9%;
+  }
+
+  .content .garden {
+    top: -7%;
+    height: 53%;
+  }
+
+  .content .footer {
+    top: -7.5%;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  #fl17, #fl18, #fl19, #fl20, #fl21, #fl22 {
+    display: none;
+  }
+
+  .sside1, .sside2 {
+    display: none;
+  }
+
+  .content .logo {
+    width: 14%;
+    top: 18.5%;
+  }
+
+  .content .footer > p {
+    top: 36.5%;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1279px){
+  body .ratio {
+    padding-bottom: 347.3%;
+  }
+
+  .castlewrap {
+    display: none;
+  }
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    position: relative;
+    height: 25%;
+    width: 95.6%;
+    top: -1.5%;
+  }
+
+  .castlewrap4 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    display: none;
+  }
+
+  .fence {
+    top: -4.9%;
+  }
+
+  .content .garden {
+    top: -5%;
+    height: 50%;
+  }
+
+  .content .footer {
+    top: -6%;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  #fl17, #fl18, #fl19, #fl20, #fl21, #fl22 {
+    display: none;
+  }
+
+  .sside1, .sside2 {
+    display: none;
+  }
+
+  .content .logo {
+    width: 15%;
+    top: 18.5%;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+
+  body .ratio {
+    padding-bottom: 376.3%;
+  }
+
+  .castlewrap {
+    display: none;
+  }
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    display: none;
+  }
+
+  .castlewrap4 {
+    position: relative;
+    height: 32%;
+    width: 95.8%;
+    top: -1.2%;
+  }
+
+  .fence {
+    top: -6.7%;
+  }
+
+  .content .garden {
+    top: -8%;
+    height: 46%;
+  }
+
+  .content .footer {
+    top: -9%;
+  }
+
+  .fence-left2, .fence-right2 {
+    display: none;
+  }
+
+  #fl17, #fl18, #fl19, #fl20, #fl21, #fl22 {
+    display: none;
+  }
+
+  .sside1, .sside2 {
+    display: none;
+  }
+
+  .content .logo {
+    width: 18%;
+    top: 24.5%;
+  }
+}
+
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape){
+  .castlewrap {
+    display: none;
+  }
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+
+
+} */
+
+@media all and (min-width: 300px) and (max-width: 767px){
+  body .ratio {
+    padding-bottom: 775.3%;
+  }
+
+  .castlewrap {
+    display: none;
+  }
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+
+  .castlewrap4 {
+    display: none;
+  }
+
+  .castlewrap5 {
+    position: relative;
+    height: 25%;
+    width: 136.8%;
+    top: -4.2%;
+    left: -31%;
+  }
+
+  .fence-left, .fence-right {
+    display: none;
+  }
+
+  .content .fence {
+    position: relative;
+    height: 16%;
+    width: 101%;
+    display: block;
+    top: -4.8%;
+  }
+
+  .fence-left2 {
+    position: absolute;
+    width: 50%;
+    height: 95%;
+  }
+
+  .fence-right2 {
+    position: absolute;
+    width: 50%;
+    height: 95%;
+    right: -1.3%;
+  }
+
+  .fence-left2 > img {
+    height: 100%;
+  }
+
+  .fence-right2 > img {
+    height: 100%;
+  }
+
+  .fence .lock {
+    height: 24%;
+    width: 22%;
+    top: 38%;
+    left: 38.5%;
+  }
+
+  .content .garden {
+    top: -5%;
+    height: 55.5%;
+  }
+
+  .garden .lab {
+    position: absolute;
+    width: 100%;
+    height: 23.4%;
+    left: 0.5%;
+    top: 23%;
+  }
+
+  .garden .field {
+    position: absolute;
+    width: 98.5%;
+    height: 22.5%;
+    left: .5%;
+    top: -0.1%;
+  }
+
+  .fountainfield, .fountainbutton, .side1, .side2 {
+    display: none;
+  }
+
+  .garden .cardrow {
+    position: absolute;
+    top: 46.5%;
+    height: 31.5%;
+    width: 100%;
+  }
+
+  .cardrow .one {
+    left: 3.5%;
+  }
+
+  .cardrow .two {
+    left: 51%;
+  }
+
+  .cardrow .three {
+    right: 27.5%;
+    top: 50%;
+  }
+
+  .cardrow .card {
+    position: absolute;
+    width: 45%;
+    height: 48.5%;
+  }
+
+  .cardrow .cardinside {
+    position: absolute;
+    top: 0.4%;
+    left: 0.5%;
+    width: 99%;
+    height: 99.1%;
+    border-radius: 3.5vw;
+    border: 2.7vw solid;
+  }
+
+  .cardrow .cardinside > p {
+    top: 22%;
+    width: 93%;
+    font-size: 3.1vw;
+    left: 4.5%;
+    line-height: 3.9vw;
+  }
+
+  .content .footer {
+    top: -9%;
+  }
+
+  #fl17 {
+    position: absolute;
+    height: 21%;
+    width: 36%;
+    left: 11%;
+    top: 10%;
+  }
+
+  #fl18 {
+    position: absolute;
+    height: 27%;
+    width: 35%;
+    top: 28%;
+    left: 39%;
+  }
+
+  #fl19 {
+    position: absolute;
+    height: 16%;
+    width: 125%;
+    top: 75%;
+    left: -25%;
+  }
+
+  #fl20 {
+    position: absolute;
+        height: 32%;
+        width: 47%;
+        top: 11%;
+        left: 38%;
+  }
+
+  #fl21 {
+    position: absolute;
+    height: 17%;
+    width: 32%;
+    top: 79%;
+    left: 53%;
+  }
+
+  #fl22 {
+    position: absolute;
+    height: 19%;
+    width: 66%;
+    top: 50%;
+    left: 15%;
+  }
+
+  #water {
+    display: none;
+  }
+
+  .round, .square {
+    display: none;
+  }
+
+  .garden .gnomefield {
+    width: 44%;
+    height: 11%;
+    left: 28%;
+    top: 77.8%;
+  }
+
+  .garden .lines {
+    width: 44%;
+    height: 11%;
+    left: 28%;
+    top: 88.7%;
+  }
+
+  .garden .gnome {
+    position: absolute;
+    bottom: 14%;
+    left: 45.5%;
+    width: 9%;
+    height: 6%;
+  }
+
+  .sside1 {
+    position: absolute;
+    height: 37%;
+    width: 25%;
+    top: 62.3%;
+  }
+
+  .sside2 {
+    position: absolute;
+    height: 37%;
+    width: 25%;
+    top: 62.3%;
+    left: 75.4%;
+  }
+
+  .footer .fencebottom {
+    position: absolute;
+    top: 25.5%;
+    width: 226%;
+    height: 61%;
+    right: -63%;
+  }
+
+  .content .logo {
+    width: 31%;
+    top: 9.5%;
+  }
+
+  .content .footer > p {
+    top: 59.5%;
+  }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px){
+  .castlewrap {
+    display: none;
+  }
+  .castlewrap2 {
+    display: none;
+  }
+
+  .castlewrap3 {
+    display: none;
+  }
+}
