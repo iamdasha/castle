@@ -1,5 +1,6 @@
 @import "reset.css";
 @import "responsive.css";
+@import "content.css";
 @font-face {
     font-family: 'Euclid Circular';
     src: url('../fonts/EuclidCircularA-Bold.woff')
