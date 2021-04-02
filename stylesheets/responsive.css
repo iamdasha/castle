@@ -254,6 +254,10 @@
     top: 18.5%;
   }
 
+  .content .letter {
+    top: 29.5%;
+  }
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1023px){
@@ -313,23 +317,15 @@
     width: 18%;
     top: 24.5%;
   }
+
+  .content .letter {
+    height: 4.7%;
+    width: 38%;
+    top: 35.5%;
+    left: 31%;
+  }
 }
 
-/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape){
-  .castlewrap {
-    display: none;
-  }
-  .castlewrap2 {
-    display: none;
-  }
-
-  .castlewrap3 {
-    display: none;
-  }
-
-
-
-} */
 
 @media all and (min-width: 300px) and (max-width: 767px){
   body .ratio {
@@ -580,6 +576,18 @@
 
   .content .footer > p {
     top: 59.5%;
+  }
+
+  .content .letter {
+    height: 3.5%;
+    width: 49%;
+    top: 29.5%;
+    left: 25.8%;
+  }
+
+  .content .letter > p {
+    font-size: 2.8vw;
+    line-height: 3.5vw
   }
 }
 
