@@ -90,6 +90,8 @@ function run() {
     console.log('switched to slide 13')
   })
 
+
+
   document.querySelector('.castlewrap').addEventListener('click', (event) => {
     let elem = event.srcElement
     if (!elem.classList.contains('btnback')) {
@@ -101,7 +103,7 @@ function run() {
       } else if (fill === '#FF9045') {
         elem.setAttribute('fill', '#F44719')
       }
-    } 
+    }
   })
 
   document.querySelector('.castlewrap2').addEventListener('click', (event) => {
@@ -210,6 +212,11 @@ function run() {
 
   document.querySelector('#lock').addEventListener('click', (event) => {
     document.querySelector('#lock').style.display = 'none'
+    document.querySelector('#letter').style.display = 'block'
+  })
+
+  document.querySelector('#close').addEventListener('click', (event) => {
+    document.querySelector('#letter').style.display = 'none'
   })
 
 
